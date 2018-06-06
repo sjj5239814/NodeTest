@@ -1,0 +1,25 @@
+{
+  "name": "sjjnodetest",
+  "version": "1.0.0",
+  "description": "nodejs test",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjj5239814/NodeTest.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "test"
+  ],
+  "author": "shijijian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjj5239814/NodeTest/issues"
+  },
+  "homepage": "https://github.com/sjj5239814/NodeTest#readme"
+}
